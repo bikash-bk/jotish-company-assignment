@@ -1,0 +1,26 @@
+.details-main{
+  padding:40px;
+  text-align:center;
+}
+
+.details-box{
+  background:rgba(255,255,255,0.08);
+  padding:30px;
+  border-radius:12px;
+  display:inline-block;
+}
+
+.capture-btn{
+  margin-top:20px;
+  padding:10px 20px;
+  border:none;
+  border-radius:6px;
+  background:#3b82f6;
+  color:white;
+  cursor:pointer;
+  transition:0.3s ease;
+}
+
+.capture-btn:hover{
+  transform:scale(1.1);
+}
