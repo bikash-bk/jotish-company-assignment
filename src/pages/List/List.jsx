@@ -34,7 +34,7 @@ export default function List(){
           onClick={()=>navigate(`/details/${index}`,{state:{item}})}
         >
           <p>Name: {item[0]}</p>
-          <p>Salary: {item[1]}</p>
+          <p>Role: {item[1]}</p>
           <p>City: {item[2]}</p>
         </div>
       ))}
