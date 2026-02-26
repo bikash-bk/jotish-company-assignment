@@ -22,7 +22,7 @@ export default function Details(){
         <h2>Details</h2>
 
         <p>Name: {item[0]}</p>
-        <p>Salary: {item[1]}</p>
+        <p>Role: {item[1]}</p>
         <p>City: {item[2]}</p>
 
         <Webcam
